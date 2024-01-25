@@ -3,7 +3,11 @@ Newsify is an innovative web-based news application designed to keep users infor
 Key Features:
 
 Real-Time News Updates: Newsify harnesses the power of real-time APIs to fetch the latest news articles, headlines, and updates from reputable sources worldwide. Users can access breaking news as it happens, ensuring they stay ahead and well-informed.
+
+
 Intuitive User Interface: The user interface of Newsify is thoughtfully designed for simplicity and ease of use. Intuitive navigation, minimalist aesthetics, and well-organized content make browsing and discovering news stories a seamless experience.
+
+
 Search and Filter Functionality: Users can effortlessly search for specific news topics, keywords, or sources using Newsify's robust search functionality.
 
 
